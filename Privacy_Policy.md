@@ -1,6 +1,6 @@
 ## Privacy Policy For SMS - Save My Soul
 
-Nikhil Arya built the SMS - Save My Soul app as a Free app. This SERVICE is provided by Nikhil Arya at no cost and is intended for use as is.
+Nikhil Arya built the SMS - Save My Soul app as a Free app. This service is provided by Nikhil Arya at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -42,4 +42,4 @@ The SMS containing the contact information will only be sent from your mobile if
 
 #### Additional Information About User's Information -
 
-In case some unauthorised person is able to retrieve your contact information by guessing your password or security answers or any other means, the developer is not to be held accountable for it. Your privacy and data security is in your hands. If you are not confident and comfortable with the security features given in the app, please don't use this app.
+In case some unauthorised person is able to retrieve your contact information by guessing your password or security answers or any other means, I am not to be held accountable for it. Your privacy and data security is in your hands. If you are not confident and comfortable with the security features given in the app, please don't use this app.
